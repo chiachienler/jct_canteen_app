@@ -1,3 +1,5 @@
+.NET Framework 4.8 is required.
+
 Data.mdf and Data_log.ldf is the necessary SQL Server Database file for Canteen app.
 
 
